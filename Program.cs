@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Pedagog");
             Console.WriteLine("Arthur");
+            Console.WriteLine("Aleksey");
         }
     }
 }
